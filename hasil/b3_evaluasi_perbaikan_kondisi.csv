@@ -1,0 +1,5 @@
+Kondisi,Metode,Citra Berat,KB Berat Sebelum,KB Berat Sesudah,Citra Ringan,KB Ringan Sebelum,KB Ringan Sesudah
+gelap,Gamma 0.6,teh_042.png,4.4,3.8,teh_022.png,2.6,2.13
+terang,Gamma 1.8,teh_043.png,4.38,4.77,teh_023.png,1.97,2.14
+kontras_rendah,Peregangan Persentil,teh_044.png,1.77,1.88,teh_024.png,1.07,1.14
+bayangan,"CLAHE (clip 2.0, tile 8)",teh_045.png,2.88,2.34,teh_025.png,1.29,1.38

@@ -1,0 +1,7 @@
+Citra,Rerata,Simp. baku,Min-maks,% gelap,% terang,Diagnosis,Usulan perbaikan
+teh_041.png (normal),177.7,37.4,74-219,0.0,2.5,"Pencahayaan memadai, rentang dinamis baik",Tanpa perbaikan / peregangan ringan
+teh_042.png (gelap),118.9,37.2,18-168,6.5,0.0,"Under-exposed, histogram bergeser ke kiri, % gelap > 5%",Koreksi gamma < 1 (gamma 0.5) atau CLAHE
+teh_043.png (terang),211.4,26.3,139-248,0.0,77.4,"Over-exposed, histogram menumpuk di kanan, % terang 77%",Koreksi gamma > 1 (gamma 1.8) atau kurangi kecerahan
+teh_044.png (kontras_rendah),154.9,14.6,96-201,0.0,0.0,"Rentang dinamis sempit (std dev rendah: 14.6), kabut/debu",Peregangan kontras linier atau ekualisasi histogram
+teh_045.png (bayangan),128.0,56.4,19-244,2.6,11.4,"Bimodal, pencahayaan tidak merata (separuh teduh/terang)",CLAHE (ekualisasi adaptif lokal)
+teh_021 s.d. teh_025 (ringan),157.5,36.5,5-253,4.5,18.7,"Variasi mirip kelas berat, bercak berukuran kecil (1–3 px)",Sesuai kondisi masing-masing citra

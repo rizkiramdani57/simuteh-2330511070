@@ -1,0 +1,6 @@
+kondisi,KB_sebelum,KB_sesudah,Perubahan (%),Catatan
+bayangan,6.02,9.4,56.15,"Peningkatan terbesar (+56.2%), separuh teduh terkompensasi"
+gelap,9.42,14.44,53.29,"Peningkatan sangat tajam (+53.3%), detail bercak terangkat"
+kontras_rendah,3.3,4.46,35.15,"Peningkatan kuat (+35.4%), kontras daun vs bercak melebar"
+normal,9.45,11.55,22.22,"KB meningkat mantap (+22.3%), derau sensor bersih"
+terang,7.13,6.2,-13.04,Sedikit menurun (-13.1%) akibat saturasi lokal CLAHE statis
